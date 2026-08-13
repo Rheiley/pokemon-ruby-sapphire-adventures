@@ -5,6 +5,7 @@ A Pokémon fangame that adapts the Pokémon Adventures: Ruby & Sapphire arc.
 ## Credits
 
 * [Pokémon Essentials v21.1](https://eeveeexpo.com/essentials/)
+* [Delta Speed Up](https://eeveeexpo.com/resources/1379/)
 
 ## Disclaimer
 
