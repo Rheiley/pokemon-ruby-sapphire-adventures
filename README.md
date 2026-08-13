@@ -6,6 +6,8 @@ A Pokémon fangame that adapts the Pokémon Adventures: Ruby & Sapphire arc.
 
 * [Pokémon Essentials v21.1](https://eeveeexpo.com/essentials/)
 * [Delta Speed Up](https://eeveeexpo.com/resources/1379/)
+* [Level Caps EX](https://eeveeexpo.com/resources/1481/)
+* [Voltseon's Pause Menu](https://eeveeexpo.com/resources/692/)
 
 ## Disclaimer
 

@@ -1,0 +1,6 @@
+Name       = Level Caps Ex
+Version    = 2.7.0
+Essentials = 21.1
+Requires   = v21.1 Hotfixes,1.0.9
+Website    = https://github.com/99Problemsx/Pokemon-Shattered-Crowns
+Credits    = Nononever, Golisopod User, Shattered Crowns Team
