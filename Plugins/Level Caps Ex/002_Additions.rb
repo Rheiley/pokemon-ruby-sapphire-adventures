@@ -347,7 +347,7 @@ if LevelCapsEX.voltseons_pause_menu_exists?
 
     def refresh
       level_cap = LevelCapsEX.current_level_cap
-      text = _INTL("Current Lvl Cap: {1}", level_cap)
+      text = _INTL("Level Cap: {1}", level_cap)
       @sprites["overlay"].bitmap.clear
       pbSetSystemFont(@sprites["overlay"].bitmap)
       pbDrawTextPositions(@sprites["overlay"].bitmap, [
