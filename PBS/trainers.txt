@@ -81,7 +81,7 @@ LoseText = Our teamwork failed!
 Pokemon = TURTWIG,19
 Pokemon = CHIMCHAR,19
 #-------------------------------
-[POKEMONTRAINER_May,May]
+[POKEMONTRAINER_Sapphire,Sapphire]
 LoseText = ...
 Pokemon = COMBUSKEN,19
 #-------------------------------

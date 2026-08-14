@@ -114,9 +114,9 @@ module Battle::Scene::Animation::BallAnimationMixin
     case @trainer.trainer_type
     when :POKEMONTRAINER_Leaf
       coordSets = [[traSprite.x - 30, traSprite.y - 30], [-18, -36], [118, -6]]
-    when :POKEMONTRAINER_Brendan
+    when :POKEMONTRAINER_Ruby
       coordSets = [[traSprite.x - 46, traSprite.y - 40], [-4, -30], [118, -2]]
-    when :POKEMONTRAINER_May
+    when :POKEMONTRAINER_Sapphire
       coordSets = [[traSprite.x - 44, traSprite.y - 38], [-8, -30], [122, 0]]
     end
     # Arm stretched out behind player
