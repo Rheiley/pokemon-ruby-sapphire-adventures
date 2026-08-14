@@ -13,6 +13,7 @@ This project is made using [Pokémon Essentials v21.1](https://eeveeexpo.com/ess
 ## Graphics
 
 * [Emerald Essentials](https://www.pokecommunity.com/threads/emerald-essentials-1-1-0.536360/)
+* [Emerald Outdoors](https://eeveeexpo.com/resources/1529/)
 
 ## Music
 See [TRACKLIST.md](./Audio/TRACKLIST.md)
