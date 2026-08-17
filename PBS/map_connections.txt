@@ -1,2 +1,4 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+# Route 101 (5) - Littleroot Town (1)
+5,South,0,1,North,0
